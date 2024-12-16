@@ -1,0 +1,190 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="social:begin" />
+            <item index="1" class="java.lang.String" itemvalue="openid" />
+            <item index="2" class="java.lang.String" itemvalue="facebook" />
+            <item index="3" class="java.lang.String" itemvalue="github" />
+            <item index="4" class="java.lang.String" itemvalue="discord" />
+            <item index="5" class="java.lang.String" itemvalue="google" />
+            <item index="6" class="java.lang.String" itemvalue="amazon" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="82">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="binance" />
+            <item index="2" class="java.lang.String" itemvalue="requests_html" />
+            <item index="3" class="java.lang.String" itemvalue="pybit" />
+            <item index="4" class="java.lang.String" itemvalue="telebot" />
+            <item index="5" class="java.lang.String" itemvalue="kucoin" />
+            <item index="6" class="java.lang.String" itemvalue="django-apscheduler" />
+            <item index="7" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="8" class="java.lang.String" itemvalue="django-simpleui" />
+            <item index="9" class="java.lang.String" itemvalue="pyTelegramBotAPI" />
+            <item index="10" class="java.lang.String" itemvalue="asgiref" />
+            <item index="11" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="12" class="java.lang.String" itemvalue="requests" />
+            <item index="13" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="14" class="java.lang.String" itemvalue="APScheduler" />
+            <item index="15" class="java.lang.String" itemvalue="ccxt" />
+            <item index="16" class="java.lang.String" itemvalue="django" />
+            <item index="17" class="java.lang.String" itemvalue="telethon" />
+            <item index="18" class="java.lang.String" itemvalue="pathlib" />
+            <item index="19" class="java.lang.String" itemvalue="python-binance" />
+            <item index="20" class="java.lang.String" itemvalue="pendulum" />
+            <item index="21" class="java.lang.String" itemvalue="bipwallet" />
+            <item index="22" class="java.lang.String" itemvalue="selenium" />
+            <item index="23" class="java.lang.String" itemvalue="oauth2client" />
+            <item index="24" class="java.lang.String" itemvalue="Automat" />
+            <item index="25" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="26" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="27" class="java.lang.String" itemvalue="constantly" />
+            <item index="28" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="29" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="30" class="java.lang.String" itemvalue="certifi" />
+            <item index="31" class="java.lang.String" itemvalue="tomli" />
+            <item index="32" class="java.lang.String" itemvalue="txaio" />
+            <item index="33" class="java.lang.String" itemvalue="urllib3" />
+            <item index="34" class="java.lang.String" itemvalue="binance-connector" />
+            <item index="35" class="java.lang.String" itemvalue="autopep8" />
+            <item index="36" class="java.lang.String" itemvalue="hyperlink" />
+            <item index="37" class="java.lang.String" itemvalue="service-identity" />
+            <item index="38" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="39" class="java.lang.String" itemvalue="gspread" />
+            <item index="40" class="java.lang.String" itemvalue="cryptography" />
+            <item index="41" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="42" class="java.lang.String" itemvalue="dateparser" />
+            <item index="43" class="java.lang.String" itemvalue="incremental" />
+            <item index="44" class="java.lang.String" itemvalue="attrs" />
+            <item index="45" class="java.lang.String" itemvalue="regex" />
+            <item index="46" class="java.lang.String" itemvalue="autobahn" />
+            <item index="47" class="java.lang.String" itemvalue="Django" />
+            <item index="48" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="49" class="java.lang.String" itemvalue="cachetools" />
+            <item index="50" class="java.lang.String" itemvalue="multidict" />
+            <item index="51" class="java.lang.String" itemvalue="yarl" />
+            <item index="52" class="java.lang.String" itemvalue="aiosignal" />
+            <item index="53" class="java.lang.String" itemvalue="google-auth" />
+            <item index="54" class="java.lang.String" itemvalue="Twisted" />
+            <item index="55" class="java.lang.String" itemvalue="ujson" />
+            <item index="56" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="57" class="java.lang.String" itemvalue="undetected_chromedriver" />
+            <item index="58" class="java.lang.String" itemvalue="fake_useragent" />
+            <item index="59" class="java.lang.String" itemvalue="django-recaptcha" />
+            <item index="60" class="java.lang.String" itemvalue="six" />
+            <item index="61" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="62" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="63" class="java.lang.String" itemvalue="fontawesomefree" />
+            <item index="64" class="java.lang.String" itemvalue="html2text" />
+            <item index="65" class="java.lang.String" itemvalue="packaging" />
+            <item index="66" class="java.lang.String" itemvalue="django-widget-tweaks" />
+            <item index="67" class="java.lang.String" itemvalue="django-tinymce" />
+            <item index="68" class="java.lang.String" itemvalue="django-allauth" />
+            <item index="69" class="java.lang.String" itemvalue="webdriver_manager" />
+            <item index="70" class="java.lang.String" itemvalue="pytz" />
+            <item index="71" class="java.lang.String" itemvalue="django-auto-prefetch" />
+            <item index="72" class="java.lang.String" itemvalue="more_itertools" />
+            <item index="73" class="java.lang.String" itemvalue="dj_database_url" />
+            <item index="74" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="75" class="java.lang.String" itemvalue="binance-futures-connector" />
+            <item index="76" class="java.lang.String" itemvalue="pyrebase" />
+            <item index="77" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="78" class="java.lang.String" itemvalue="pandas" />
+            <item index="79" class="java.lang.String" itemvalue="heroku3" />
+            <item index="80" class="java.lang.String" itemvalue="crypto_pay_api_sdk" />
+            <item index="81" class="java.lang.String" itemvalue="Bybit" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="E127" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N813" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="filter" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Users.models.Admin.*" />
+          <option value="Signal.models.Orders.*" />
+          <option value="Users.models.Users.*" />
+          <option value="Signal.models.Exchange.*" />
+          <option value="Users.models.Order.*" />
+          <option value="Users.models.Trader.*" />
+          <option value="undetected_chromedriver.v2.*" />
+          <option value="Bot.models.Traders.*" />
+          <option value="Bot.models.Signal.*" />
+          <option value="Bot.models.Admin.*" />
+          <option value="Users.models.User.*" />
+          <option value="Signal.models.Signal.*" />
+          <option value="Bot.models.Orders.*" />
+          <option value="Bot.models.Users.*" />
+          <option value="bot.models.Orders.*" />
+          <option value="bot.models.Masters.*" />
+          <option value="bot.models.Users.*" />
+          <option value="Exception.__add__" />
+          <option value="float.__getitem__" />
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="int.sum" />
+          <option value="float.__await__" />
+          <option value="Bot.models.Trader.*" />
+          <option value="Bot.models.Order.*" />
+          <option value="typing.Coroutine.__add__" />
+          <option value="typing.Coroutine.*" />
+          <option value="int.__getitem__" />
+          <option value="str.__truediv__" />
+          <option value="django.db.models.fields.related.ForeignKey.__add__" />
+          <option value="Bot.models.UserFollowing.*" />
+          <option value="bot.models.exchange.*" />
+          <option value="Bot.models.Statistic_month.*" />
+          <option value="Bot.models.Statistic_week.*" />
+          <option value="Bot.models.Statistic.*" />
+          <option value="Bot.models.Close_position.*" />
+          <option value="pybit.usdt_perpetual" />
+          <option value="Bot.models.ClosePosition.*" />
+          <option value="django.template.library.Library.assignment_tag" />
+          <option value="bot.models.Cancel_orders.objects" />
+          <option value="Bot.models.Cancel_orders.*" />
+          <option value="django.close_old_connections" />
+          <option value="Bot.models.User_Follow.*" />
+          <option value="User" />
+          <option value="Api_key" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
